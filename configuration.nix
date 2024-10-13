@@ -107,6 +107,7 @@
   environment.systemPackages = with pkgs; [
     # system packages
     git
+    gh
     gnumake
     wget
     stow
